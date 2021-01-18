@@ -1,3 +1,6 @@
+Remove Net 4.5
+Update Nuget package
+
 # Hangfire.Storage.SQLite
 [![NuGet](https://buildstats.info/nuget/Hangfire.Storage.SQLite)](https://www.nuget.org/packages/Hangfire.Storage.SQLite)
 [![Actions Status](https://github.com/raisedapp/Hangfire.Storage.SQLite/workflows/CI-HS-SQLITE/badge.svg)](https://github.com/raisedapp/Hangfire.Storage.SQLite/actions)
